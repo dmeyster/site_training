@@ -1,0 +1,33 @@
+head{
+	background-color: #F5F5DC;
+}
+body{
+	background-color: #F5F5DC;
+}
+footer{
+	background-color: #F5F5DC;
+}
+h1{
+	color: #6A5ACD;
+}
+h2{
+	color: #663399;
+}
+p{
+	color: #8B4513;
+}
+
+a:active{
+  color:#D2691E;
+  text-decoration:none;
+}
+
+a:visited{
+  color:#8B0000;
+  text-decoration: none;
+}
+
+a:hover{
+  color: deeppink;
+  text-decoration: underline;
+}
